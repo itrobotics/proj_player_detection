@@ -1,0 +1,10 @@
+path:  E:\Extraction-of-frames-from-single-video-computer-vision-\Extracted Frames
+train:  ./train/images
+val:  ./train/images
+test: ./test/images
+#Classes
+nc: 2
+
+#classes names
+#replace all class names list with your classes names
+names: ['kyrie', 'referee']
